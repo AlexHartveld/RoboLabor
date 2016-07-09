@@ -6,12 +6,12 @@ Usage
 
 Fork repository
 -----------------------
-* Create own GitHub account
-* Browse to
+1. Create own GitHub account
+2. Browse to
 
     https://github.com/JoBergs/RoboLabor
 
-* Click "Fork" top right
+3. Click "Fork" top right
 
 Clone repository
 ------------------------
