@@ -5,3 +5,7 @@
 * Roboter aussuchen/kaufen? Gedankengesteuerter Raspi-Robot als Projekt?
 
 * Erika Hummer - Elsa Schulnetzwerk - anschreiben?
+
+* there is another robolabor on github
+    
+    https://github.com/ratamovic/robolabor
