@@ -4,10 +4,19 @@ Edu project by Johannes Bergs and Alex Hartveld
 Usage
 ==========
 
+Fork repository
+-----------------------
+* Create own GitHub account
+* Browse to
+
+    https://github.com/JoBergs/RoboLabor
+
+* Click "Fork" top right
+
 Clone repository
 ------------------------
 
-    git clone https://github.com/JoBergs/RoboLabor
+    git clone https://github.com/USERNAME/RoboLabor
 
 
 Submit changes
