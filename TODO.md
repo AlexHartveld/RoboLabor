@@ -14,8 +14,3 @@ Vor Mittwoch, 13.7. 13:59h
 
 * IoT-Sonderpreis beantragen
 
-
-Irgendwann
---------------
-
-* Erika Hummer - Elsa Schulnetzwerk - anschreiben?

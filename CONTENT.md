@@ -1,5 +1,3 @@
-
-
 #Content
 
 Wir werden der Anlaufpunkt fuer Informatikunterricht mit Raspberry Pis in Oesterreich.
