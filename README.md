@@ -40,3 +40,7 @@ Help
 Markdown formatting language
 
     https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+Collaboration guide
+    
+    http://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267
