@@ -1,5 +1,5 @@
 # RoboLabor
-Edu project with Alex Hartveld
+Edu project by Johannes Bergs and Alex Hartveld
 
 Usage
 ==========
