@@ -33,3 +33,10 @@ Copy file to git repository, then
     git add FILENAME
 
 Then, submit changes like above
+
+Help
+-----------------
+
+Markdown formatting language
+
+    https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
