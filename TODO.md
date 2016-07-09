@@ -13,3 +13,9 @@ Vor Mittwoch, 13.7. 13:59h
 * Foerderung beantragen
 
 * IoT-Sonderpreis beantragen
+
+
+Irgendwann
+--------------
+
+* Erika Hummer - Elsa Schulnetzwerk - anschreiben?
