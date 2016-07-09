@@ -14,3 +14,7 @@ Vor Mittwoch, 13.7. 13:59h
 
 * IoT-Sonderpreis beantragen
 
+* Kursmethodologie beschreiben
+
+* Agile Kurserstellung beschreiben
+
