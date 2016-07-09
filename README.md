@@ -35,7 +35,7 @@ Copy file to git repository, then
 Then, submit changes like above
 
 Help
------------------
+=========
 
 Markdown formatting language
 
